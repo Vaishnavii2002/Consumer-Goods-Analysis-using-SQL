@@ -1,7 +1,10 @@
 # Consumer-Goods-Analysis-using-SQL
+Atliq Hardwares (imaginary company) data exploration 
 
+# Problem-Statement
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
 
-**Requests:**
+# Ad-hoc-requests
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its
 business in the APAC region.
