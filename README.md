@@ -1,3 +1,4 @@
+
 # Consumer-Goods-Analysis-using-SQL
 Atliq Hardwares (imaginary company) data exploration 
 
@@ -74,3 +75,4 @@ total_sold_quantity in the fiscal_year 2021? The final output contains these fie
 - product
 - total_sold_quantity
 - rank_order
+![image](https://user-images.githubusercontent.com/87874194/233971979-de208419-d254-4b74-baba-3fb50dde1f72.png)
